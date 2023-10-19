@@ -1,0 +1,29 @@
+# Customer 1 -
+# Room No. - 23
+# Customer Name - Kushal
+# Address - Agra
+# Bill Amount - 2300
+
+# Customer 2 -
+# Room No. - 1
+# Customer Name - Parth
+# Address - VIT
+# Bill Amount - 2500
+
+# Customer 3 -
+# Room No. - 12
+# Customer Name - Vaibhav
+# Address - Agra
+# Bill Amount - 1000
+
+# Customer 4 -
+# Room No. - 10
+# Customer Name - Sarthak
+# Address - Indore
+# Bill Amount - 5000
+
+# Customer 5 -
+# Room No. - 5
+# Customer Name - Jayant
+# Address - Panjab
+# Bill Amount - 3500
